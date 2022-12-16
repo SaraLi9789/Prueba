@@ -7,6 +7,8 @@ public class PersonajePrueba {
 	        Personaje[]piña = new Personaje[NUM_PERSONAJE];
 	       
 	        piña[0] = new Personaje("Arenita Mejillas","Arenita");
+	        
+	        ///CambiosEntornos
 	       
 	       
 	        for (Personaje p : piña) {
