@@ -7,6 +7,7 @@ public class HelloWorld {
 	String mensaje2 = "Soy Sara";
 			System.out.println(mensaje);
 		System.out.println(mensaje2);
+		
 	}
 
 }
